@@ -1,1 +1,0 @@
-console.log("Starting Node.js Morning Session");

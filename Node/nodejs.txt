@@ -1,0 +1,41 @@
+[1]what is node js?
+it ii an open sources platform that is used to run the program outside the browser called node
+
+[2]how node js will work?
+it will take code form browser like html css js and it will send request to the web browser through the http request and that web server will send request through odm/orm.
+
+[3]what is web serever?
+it is a software thta accept requestfrom browserlike (chrome) and full fills them back by sending request like conetet images etc.....
+
+key function of web serevr software?
+[1]accepting http request
+[2]delivering web conetet
+[3]handling multiple connections
+
+[4]software framework?
+it is framework that are resuable , pre-written code that developers can use to build application more efficiently
+  there are many framewroks
+    1) webapplication framework
+    2)mobile application framework
+    3)front-end framework 
+    4)back-end  framework
+    5)testing framework
+    6)game development framework
+[5]client and server architecutre
+ it follows a protocal known as request and response which means client will send request to the browser and server will send back the response
+
+[6]javascript engine ?
+it is program interpreter that execute  js code it isn a core component to run the javscript and other environment
+
+[7] list of js engine
+   a)google chrome
+   b)edge
+   C)mozorilla fire fox
+   d)safari
+[8] threads in node js?
+ its is primarely focus on single thereded for javascript execution these are asynchronus in nature
+      there are 3 types ofn threads are thereds are there
+       1)main thered
+       2)worker thered
+       3)thered pool
+[9]       
