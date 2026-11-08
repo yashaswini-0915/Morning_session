@@ -1,0 +1,45 @@
+1. Introduction to MongoDB
+MongoDB is a NoSQL database used to store and manage data.
+
+Unlike SQL databases, MongoDB stores data in the form of documents instead of rows and columns.
+SQL vs MongoDB
+SQL	MongoDB
+Database	Database
+Table	Collection
+Row	Document
+Column	Field
+Primary Key	_id
+MySQL	MongoDB
+
+
+Important MongoDB terms
+1. Database: Collection of data.
+2. Collection: Group of documents.
+3. Document: Individual record.
+4. Field: Key-value pair.
+5. _id: Unique identifier for every document.
+Example of MongoDB document
+{
+    name: "Yashu",
+    age: 22,
+    course: "MERN Stack",
+    marks: 85
+}
+
+Why MongoDB?
+- Flexible schema.
+- Easy to store JSON-like data.
+- Handles large amounts of data.
+- Fast data retrieval.
+- Suitable for MERN stack applications.
+🍃 2. Important MongoDB Commands
+Command	Purpose
+show dbs	Display databases
+use College	Create or switch database
+db	Display current database
+show collections	Display collections
+db.createCollection()	Create collection
+db.collection.insertOne()	Insert one document
+db.collection.insertMany()	Insert multiple documents
+db.collection.find()	Retrieve documents
+db.collection.updateOne()	Update one document
